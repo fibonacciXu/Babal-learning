@@ -3,3 +3,5 @@
 */yarn-lock.json
 */*.map
 */lib
+
+yarn.lock
